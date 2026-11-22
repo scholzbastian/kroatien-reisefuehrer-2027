@@ -1,0 +1,16 @@
+{
+  "name": "Mein historischer Kroatien-Reiseführer 2027",
+  "short_name": "Kroatien 2027",
+  "description": "Offline-Reiseführer für Senj, Nehaj, die Frankopanenburgen im Vinodol und Haludovo.",
+  "start_url": "./index.html#start",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ee",
+  "theme_color": "#086b78",
+  "lang": "de-DE",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
